@@ -1,0 +1,8 @@
+[general]
+firstlevel=1level
+start=1level
+name=Waiting World 2
+
+[levels]
+levelid=1
+
